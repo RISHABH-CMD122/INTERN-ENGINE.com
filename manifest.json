@@ -1,0 +1,17 @@
+{
+  "name": "INTERN ENGINE — Engineering Internships",
+  "short_name": "InternEngine",
+  "description": "National & International Engineering Internships, Fellowships & Govt Apprenticeships",
+  "start_url": "index.html",
+  "display": "standalone",
+  "background_color": "#06080e",
+  "theme_color": "#ff5500",
+  "icons": [
+    {
+      "src": "favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
